@@ -140,3 +140,9 @@ g++ -std=c++17 -Wall -Wextra -O2 main.cpp -o main
 - прилагане на const-коректност в методите;
 - използване на вектори за динамични колекции;
 - комбинирането на няколко класа в една система.
+
+
+## Примерен изход
+<img width="1045" height="559" alt="image" src="https://github.com/user-attachments/assets/17d2fbc9-c386-4ac6-892f-2cacf5e920dd" />
+---
+<img width="863" height="596" alt="image" src="https://github.com/user-attachments/assets/ed66465f-cb08-4e35-9170-2b86bc2f544a" />
